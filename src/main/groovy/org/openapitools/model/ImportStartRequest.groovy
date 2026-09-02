@@ -1,0 +1,17 @@
+package org.openapitools.model;
+
+import groovy.transform.Canonical
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import java.util.ArrayList;
+import java.util.Arrays;
+
+@Canonical
+class ImportStartRequest {
+    
+    String apiKey
+    
+    String provider
+    
+    List<Integer> years = new ArrayList<>()
+}
