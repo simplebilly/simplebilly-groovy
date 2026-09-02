@@ -9,7 +9,7 @@ This Groovy package, using the [http-builder-ng library](https://http-builder-ng
 
 - API version: 0.1.0
 - Package version: 0.1.0
-- Build date: 2026-09-02T07:43:07.819168411Z[Etc/UTC]
+- Build date: 2026-09-02T07:59:22.407266808Z[Etc/UTC]
 - Generator version: 7.25.0
 - Build package: org.openapitools.codegen.languages.GroovyClientCodegen
 For more information, please visit [https://simplebilly.com/en/legal/imprint](https://simplebilly.com/en/legal/imprint)
